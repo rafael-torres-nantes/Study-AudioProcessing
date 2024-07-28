@@ -1,4 +1,4 @@
-# 🎶 Estudo de Processamento de Áudio
+# 🎶 Study Audio Processing
 
 Bem-vindo ao repositório de Estudo de Processamento de Áudio! Este repositório é dedicado ao aprendizado e aplicação de técnicas de processamento de áudio utilizando Python. Aqui, você encontrará exemplos e recursos para trabalhar com diversas operações de áudio, incluindo reversão, alteração de volume, loop, corte, silenciamento, sobreposição e adição de efeitos.
 
@@ -12,7 +12,7 @@ Bem-vindo ao repositório de Estudo de Processamento de Áudio! Este repositóri
 
 ## 📝 Sobre o Projeto
 
-Este repositório explora várias técnicas de processamento de áudio usando as bibliotecas `pydub` e `SpeechRecognition`. Abaixo estão algumas das funcionalidades implementadas:
+Este repositório explora várias técnicas avançadas de processamento de áudio usando as bibliotecas pydub e SpeechRecognition. O objetivo é proporcionar uma compreensão prática e aplicada das operações de manipulação de áudio, que podem ser utilizadas em uma variedade de projetos, desde a produção musical até a análise de fala. Abaixo estão algumas das funcionalidades e técnicas detalhadas implementadas: 
 
 - **Reversão e Alteração de Volume:** Modificar o áudio para criar efeitos variados.
 - **Loop e Corte:** Criar loops e cortar partes específicas de um áudio.
